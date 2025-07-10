@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f8ff;
+  text-align: center;
+  padding: 25px;
+        margin: 0;
+      
+      overflow-x: hidden; /* ✨ stops horizontal scrolling */
+}
+#preview-cam{
+    width: 50%;
+    height: 100%;
+    overflow: none;
+    position:relative ;
+    top: 0;
+    left: 40%;
+    bottom: 100%;
+    
+    
+}

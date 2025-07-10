@@ -1,0 +1,30 @@
+{
+  "name": "Ballin lyrics",
+  "short_name": "Ballin lyrics",
+  "description": "Ballin lyrics for the VYG.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#1F51FF",
+  "theme_color": "#1F51FF",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshot1.png",
+      "sizes": "640x480",
+      "type": "image/png",
+      "label": "Main Interface"
+    }
+  ],
+  "categories": ["art"]
+}
